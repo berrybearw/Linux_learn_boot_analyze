@@ -19,5 +19,6 @@ systemd-analyze ( 大略需要時間 )
 ![image](https://user-images.githubusercontent.com/96226780/202847517-f69aecc7-8a11-43aa-9301-2f96c81e64cc.png)
 
 systemd-analyze blame ( 解析 )
+---
 
 ![image](https://user-images.githubusercontent.com/96226780/202847523-50f24c07-3477-4532-8ec2-0f64d4808baf.png)
